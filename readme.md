@@ -2,7 +2,7 @@
 
 **Purpose:**
 
-### Learning exercise to practice working with Shopify's API's to build custom products for Merchants.
+Learning exercise to practice working with Shopify's API's to build custom products for Merchants.
 
 **Tech Stack:**
 
